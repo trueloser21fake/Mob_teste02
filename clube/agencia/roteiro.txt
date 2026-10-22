@@ -1,6 +1,12 @@
 -visita à praia 
 -passeio ao museu  
 -apresentação musical
+<<<<<<< HEAD
 
 
 -visita ao centro histórico
+=======
+-passei de barco
+-jantar especial
+
+>>>>>>> novo
